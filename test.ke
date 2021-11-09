@@ -1,0 +1,30 @@
+struct ketenpere {
+    int a;
+    char c;
+
+    struct duru {
+        int a;
+        int b;
+    
+        struct foo {
+
+            float a
+            float b; 
+
+            struct es {
+                int c;
+                int d;
+            };       
+        };    
+    };
+
+    struct kalimba {
+        double c;
+        long d;
+
+        struct parley {
+            int c;
+            int d;
+        };
+    };       
+};

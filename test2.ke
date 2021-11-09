@@ -1,0 +1,15 @@
+struct ketenpere {
+    int ket;
+    int en;
+    int pere;
+
+    struct lafargue {
+        double laf;
+        float ar;
+        char* gue;
+
+        struct jxb {
+            int* yohhya;
+        };
+    };    
+};

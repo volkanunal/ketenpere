@@ -1,0 +1,32 @@
+// To Do : examine one or more nested struct issue
+struct volkan {
+    int a;
+    char c;
+
+    struct inner {
+        int a;
+        int b;
+    
+        struct testt {
+
+            float a
+            float b;       
+        };
+
+    
+        struct test {
+            int c;
+            int d;
+        };     
+    };
+
+    struct qwe {
+        double c;
+        long d;
+
+        struct test {
+            int c;
+            int d;
+        };
+    };       
+};
