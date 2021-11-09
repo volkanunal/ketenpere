@@ -2,10 +2,10 @@
 -----------
 It is a command line tool that prints the struct layout.
 
-##Why?
+## Why?
 Because sometimes you want to do things that don't fit into the normal way of doing it.
 
-##Example
+## Example
 
 Example with [test2.ke](https://github.com/volkanunal/ketenpere/blob/master/test2.ke)
 
@@ -38,7 +38,7 @@ jxb(struct) has following member or members (int*)yohhya
 ```
 
 
-##Task Lists
+## Task Lists
 
 
 - [ ] Fix some bugs (if more than one nested struct)
